@@ -1,0 +1,1 @@
+D:\git_wspace\cpp\Win10_CPP_Training\cpp_w10_uwp_training\cpp_w10_uwp_training\cpp_w10_uwp_training.vcxproj;x86

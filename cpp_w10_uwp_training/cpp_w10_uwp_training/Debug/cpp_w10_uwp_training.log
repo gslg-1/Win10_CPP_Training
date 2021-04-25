@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Creating library D:\git_wspace\cpp\Win10_CPP_Training\cpp_w10_uwp_training\Debug\cpp_w10_uwp_training\cpp_w10_uwp_training.lib and object D:\git_wspace\cpp\Win10_CPP_Training\cpp_w10_uwp_training\Debug\cpp_w10_uwp_training\cpp_w10_uwp_training.exp
+  cpp_w10_uwp_training.vcxproj -> D:\git_wspace\cpp\Win10_CPP_Training\cpp_w10_uwp_training\Debug\cpp_w10_uwp_training\cpp_w10_uwp_training.exe
